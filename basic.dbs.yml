@@ -5,5 +5,5 @@
 name: project
 builder: cmake
 sources:
-  template-url: "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/basic.dbs.cmake"
-  class-url: "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/project.dbs.py"
+  template: "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/basic.dbs.cmake"
+  class: "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/project.dbs.py"
