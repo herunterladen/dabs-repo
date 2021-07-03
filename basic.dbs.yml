@@ -4,5 +4,5 @@
 
 builder : cmake
 sources:
-  template-url:
+  template-url: https://raw.githubusercontent.com/herunterladen/dabs-repo/main/basic.dbs.cmake
   object-url:
