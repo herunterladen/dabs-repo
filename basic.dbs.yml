@@ -1,0 +1,8 @@
+%YAML 1.2
+%DABS 0.0.1
+---
+
+builder : cmake
+sources:
+  template-url:
+  object-url:
