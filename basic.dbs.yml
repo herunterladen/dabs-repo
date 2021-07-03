@@ -4,6 +4,7 @@
 ---
 name: project
 builder: cmake
-sources:
-  template: "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/basic.dbs.cmake"
-  class: "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/project.dbs.py"
+templates:
+  - "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/basic.dbs.cmake"
+classes:
+  - "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/project.dbs.py"
