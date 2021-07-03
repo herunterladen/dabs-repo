@@ -5,4 +5,4 @@
 builder : cmake
 sources:
   template-url: https://raw.githubusercontent.com/herunterladen/dabs-repo/main/basic.dbs.cmake
-  object-url:
+  class-url: https://raw.githubusercontent.com/herunterladen/dabs-repo/main/project.dbs.py
