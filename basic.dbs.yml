@@ -5,6 +5,6 @@
 name: project
 builder: cmake
 templates:
-  - "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/basic.cmake"
+  - "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/project.cmake"
 classes:
   - "https://raw.githubusercontent.com/herunterladen/dabs-repo/main/project.py"
