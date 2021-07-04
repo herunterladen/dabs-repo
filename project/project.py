@@ -1,6 +1,6 @@
 import yaml
 
-class Project:
+class Module:
 
     def __file(self,_filename):
         with open(_filename,"r") as stream:
